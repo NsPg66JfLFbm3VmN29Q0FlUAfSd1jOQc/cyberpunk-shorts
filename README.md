@@ -8,7 +8,7 @@ sources:
 - https://www.reddit.com/r/Cyberpunk/comments/1a4em9/cyberpunk_short_films_list/  
 - internet  
 
-Roughly ordered by decreasing production quality. I'm open to suggestions for a better sorting method.
+Roughly ordered by decreasing production quality and cyberpunk-ness. I'm open to suggestions for a better sorting method.
 
 Keloid Teaser
 https://vimeo.com/33030265
@@ -49,6 +49,9 @@ https://www.youtube.com/watch?v=IzryBRPwsog
 FROM THE FUTURE WITH LOVE
 https://www.youtube.com/watch?v=-2hOv-MtbOc
 
+Blinky™
+https://vimeo.com/21216091
+
 Tears of Steel
 https://www.youtube.com/watch?v=R6MlUcmOul8
 
@@ -80,6 +83,9 @@ https://vimeo.com/97297592
 
 SYNC
 https://vimeo.com/110149838
+
+STASIS
+https://vimeo.com/album/1948522/video/14795455
 
 Tokyo Run
 https://vimeo.com/45699293
