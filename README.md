@@ -62,7 +62,7 @@ Portal: No Escape
 https://www.youtube.com/watch?v=4drucg1A6Xk
 
 Biting Elbows - The Stampede
-https://www.youtube.com/watch?v=QYm-dT24iRY
+https://www.youtube.com/watch?v=QYm-dT24iRY  
 Biting Elbows - 'Bad Motherfucker'
 https://vimeo.com/62092214
 
@@ -143,9 +143,6 @@ https://www.youtube.com/watch?v=D2iOcCibzUo
 
 Deus Ex: Gunther Vs Paul
 https://www.youtube.com/watch?v=yJo3jdtcjWE  
-
-Giant armored police robots open fire on a crowd of civilian protesters
-https://www.youtube.com/watch?v=bbIArl9PH_A
 
 Pixels 
 https://www.youtube.com/watch?v=ou8vRWTSsJo
