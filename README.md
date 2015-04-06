@@ -1,12 +1,12 @@
 #104 Cyberpunkt Short Films 
 
-You may already have seen this list but I have added some more videos that were missing. The list is fucking huge and contains tons of really awesome short movies. Frankly, it's fucking awesome, at one point I had to use version control because I had added movies to two different text files. I'm putting this list on [github](https://github.com/NsPg66JfLFbm3VmN29Q0FlUAfSd1jOQc/cyberpunk-shorts/) while I'm at it so it is safe and you can contribute like that, too, but feel free to post videos in the comments.   
+You may already have seen this list but I have added about 50 more videos that were missing. The list is fucking huge and contains tons of really awesome short movies. Frankly, it's fucking awesome, at one point I had to use version control because I had added movies to two different text files. I'm putting this list on [github](https://github.com/NsPg66JfLFbm3VmN29Q0FlUAfSd1jOQc/cyberpunk-shorts/) while I'm at it so it is safe and you can contribute like that, too, but feel free to post videos in the comments.   
 
-sources: 
-- http://www.cyberpunkforums.com/viewtopic.php?id=28&p=1
-- https://www.youtube.com/watch?v=hoj4Qv7nrN8&feature=youtu.be&list=PLPIgr44223CmzHOrrWHCysT4umrWrSo0U
-- https://www.reddit.com/r/Cyberpunk/comments/1a4em9/cyberpunk_short_films_list/
-- internet
+sources:  
+- http://www.cyberpunkforums.com/viewtopic.php?id=28&p=1  
+- https://www.youtube.com/watch?v=hoj4Qv7nrN8&feature=youtu.be&  list=PLPIgr44223CmzHOrrWHCysT4umrWrSo0U  
+- https://www.reddit.com/r/Cyberpunk/comments/1a4em9/cyberpunk_short_films_list/  
+- internet  
 
 Roughly ordered by decreasing production quality. I'm open to suggestions for a better sorting method.
 
