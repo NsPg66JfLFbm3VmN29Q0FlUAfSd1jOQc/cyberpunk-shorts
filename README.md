@@ -16,7 +16,7 @@ https://vimeo.com/33030265
 TRUE SKIN
 https://vimeo.com/51138699
 
-HUMAN REVOLUTION - DEUS EX - SHORT FILM*
+Deus Ex: Human Revolution Short Film by Moe Charif
 https://vimeo.com/90420002  
 
 Deus Ex: Mankind Divided - Announcement Trailer
